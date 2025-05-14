@@ -1,6 +1,6 @@
 # TicTaX - Console Tic-Tac-Toe
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) *(Optional: Add a license badge if you choose the MIT license or another)*
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is a command-line implementation of the classic game Tic-Tac-Toe (also known as Noughts and Crosses). Play against a computer opponent that uses programmed strategies to make its moves, and utilize save/load functionality to resume games.
 
