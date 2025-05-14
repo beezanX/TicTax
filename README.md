@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![image](https://github.com/user-attachments/assets/726208ac-5367-4d89-b060-80892a253c0d)
+
 This project is a command-line implementation of the classic game Tic-Tac-Toe (also known as Noughts and Crosses). Play against a computer opponent that uses programmed strategies to make its moves, and utilize save/load functionality to resume games.
 
 This game was developed as a school project to demonstrate basic C++ programming concepts, object-oriented design, and file I/O.
