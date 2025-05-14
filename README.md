@@ -1,4 +1,4 @@
-# TicTaX - Console Tic-Tac-Toe Game 👋
+# TicTaX - Console Tic-Tac-Toe Game 👾
 
 This project is a command-line implementation of the classic game Tic-Tac-Toe (also known as Noughts and Crosses). Play against a computer opponent that uses programmed strategies to make its moves, and utilize save/load functionality to resume games.
 
